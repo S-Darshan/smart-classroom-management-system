@@ -188,7 +188,6 @@ Smart-Classroom-Management-System
 │
 ├── docs
 │
-├── screenshots
 │
 ├── requirements.txt
 └── README.md
