@@ -186,9 +186,6 @@ Smart-Classroom-Management-System
 ├── LoRaReceiver
 │   └── lora_receiver.ino
 │
-├── docs
-│
-│
 ├── requirements.txt
 └── README.md
 ```
